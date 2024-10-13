@@ -1,0 +1,17 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 12.10.2024 12:06:55
+
+newmtl 01___Default
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.9000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd F:\Universidad\Computacion Grafica\Practica8\Practica8\Textures\Fillmore.png
